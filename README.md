@@ -1,21 +1,48 @@
-Description des principales fonctionnalités :
+Thème du site :  Vérité et sécurité ( website to make awareness among the people about Truth and security of Artificial Intellience )
 
-Qui sommes nous:
-Informations détaillées sur l'organisation, sa mission et l'équipe.
-Informer:
-Bases de l'IA et contenu informatif pour les débutants.
-Projets:
-Présentez les projets en cours et terminés liés à la sensibilisation à l’IA.
-Partenariat:
-Informations sur les partenariats actuels et potentiels avec d'autres organisations.
-Forum:
-Une plateforme de discussions communautaires, de questions et de partage de connaissances.
-Contact:
-Formulaire de contact ou détails pour les demandes de renseignements, les commentaires et la collaboration.
+The primary message we want to convey about truth and security in AI,
+
+About site : Site consist of 1 landing page (Page d’accueil) and 6 other connecting pages like 
+Qui sommes nous ?
+S’informer
+Projets
+Partenariats
+Forum
+Contact
 
 
-Benchmark technique :
 
-- Analyse comparative des performances du site Web à l'aide d'outils tels que Google PageSpeed Insights pour garantir des temps de chargement optimaux.
-- Tests de compatibilité sur plusieurs navigateurs et appareils pour une expérience utilisateur transparente.
-- Évaluation de la sécurité pour identifier les vulnérabilités potentielles et garantir des mesures de protection des données.
+Technical benchmark:
+
+Comparative analysis of website performance using tools such as Google PageSpeed Insights to ensure optimal loading times.
+
+Compatibility testing across multiple browsers and devices for a seamless user experience.
+
+Security assessment to identify potential vulnerabilities and ensure data protection measures.
+
+https://www.semrush.com/
+
+https://www.webpagetest.org/
+
+
+
+
+
+
+Technical description :
+
+Project Overview:
+
+Our project aims to create a static landing page focusing on truth and security in artificial intelligence. The page will be built entirely from scratch without relying on CMS, and it will adhere to specific constraints set by the project, including the use of Tailwind CSS, CSS Grid layout, and ensuring accessibility.
+Technical Stack:
+HTML/CSS: Hand-code the HTML and CSS for the landing page, emphasizing clean and semantic markup.
+Tailwind CSS: Learn and apply Tailwind classes for styling, ensuring a visually appealing and responsive design.
+Grid Layout: Utilize CSS Grid layout for structuring the entire page, aligning with the project's requirement to minimize the use of media queries.
+JavaScript: As per the constraints, avoid using JavaScript for this static landing page.
+Accessibility: Implement accessibility features following WAI, ARIA, and WCAG standards. Document the steps taken to ensure a more inclusive user experience.
+
+Responsive Design:
+
+The website adapts to different devices through the use of HTML, CSS and JavaScript.
+The use of media queries has created a responsive layout for seamless viewing on different screen sizes.
+

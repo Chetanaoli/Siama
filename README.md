@@ -31,15 +31,28 @@ Notre projet consiste à créer une page d'accueil statique axée sur la vérit�
 - CSS Grid Layout : Utilisation du CSS Grid pour structurer la page entière, en minimisant l'utilisation de media queries conformément aux exigences du projet.
 - JavaScript : Éviter l'utilisation de JavaScript pour cette page statique, conformément aux contraintes.
 - Accessibilité : Mise en place de fonctionnalités d'accessibilité selon les normes WAI, ARIA et WCAG pour une expérience utilisateur plus inclusive.
+### Avantages de Tailwind CSS
 
-### Conception Responsive
+#### Productivité Accrue
+L'approche utilitaire de Tailwind permet une productivité accrue en éliminant le besoin de créer des classes CSS personnalisées pour chaque élément. Cela peut accélérer le processus de développement, en particulier lors de la création de prototypes ou de l'itération rapide sur le design.
 
-Le site s'adapte à différents appareils grâce à l'utilisation d'HTML, CSS et JavaScript. Des media queries ont été utilisées pour créer une mise en page responsive adaptée à différentes tailles d'écran.
+#### Personnalisation Fine
+Tailwind offre une personnalisation fine, permettant de définir des couleurs, des tailles, des espacements, etc., selon les besoins spécifiques du projet. Cela donne un contrôle précis sur l'apparence des éléments sans avoir à écrire de CSS supplémentaire.
 
-### Avantages
+#### Légèreté
+Grâce à la génération sélective de classes, Tailwind permet de créer des feuilles de style plus légères en ne comprenant que les styles réellement utilisés. Cela peut contribuer à des performances améliorées, surtout dans le contexte du développement web.
 
-- Seulement HTML, CSS, JavaScript : Développement simplifié, déploiement rapide et coûts initiaux et continus réduits.
-- En fonction de l'analyse coût/bénéfice, l'utilisation exclusive d'HTML, CSS et JavaScript semble être la solution la plus efficace et rentable pour un site de sensibilisation à l'IA, offrant un équilibre entre faisabilité technique, temps de développement et utilisation des ressources.
+#### Facilité de Maintenance
+En utilisant des classes utilitaires, le code devient plus explicite, facilitant la maintenance et la compréhension pour moi-même ainsi que pour d'autres membres de l'équipe. La cohérence des styles est également plus facile à maintenir.
+
+#### Flexibilité dans la Conception
+La flexibilité de Tailwind me permet de créer une interface utilisateur sans être lié à des composants prédéfinis. Cela peut être particulièrement utile lorsque je travaille sur des designs complexes et personnalisés.
+
+#### Écosystème Actif
+Tailwind a une communauté active qui crée des plugins et des extensions pour étendre ses fonctionnalités. Cela signifie que je peux tirer parti de l'écosystème pour intégrer des fonctionnalités spécifiques au projet.
+
+#### Facilité d'Apprentissage
+Pour les nouveaux membres de l'équipe ou pour moi-même lorsqu'il s'agit d'adopter une nouvelle technologie, la simplicité de Tailwind peut rendre l'apprentissage plus rapide par rapport à des frameworks CSS plus complexes.
 
 ### Coûts et Délais
 

@@ -49,5 +49,5 @@ Le site s'adapte à différents appareils grâce à l'utilisation d'HTML, CSS et
 
 ## Accès aux Sources
 
-[URL vers le repository GitHub ou autre solution de stockage]
+https://github.com/Chetanaoli/verit-et-securite.git
 

@@ -1,3 +1,9 @@
+
+Figma Link : 
+
+https://www.figma.com/proto/hk5c1Sboxxcj4YauBgrHZl/Agence-Chat-perch%C3%A9?node-id=35-101
+
+
 Thème du site : Vérité et sécurité (site de sensibilisation du public à la Vérité et à la sécurité de l'Intelligence Artificielle)
 
 Le principal message que nous voulons transmettre sur la vérité et la sécurité dans l'IA,
@@ -44,4 +50,26 @@ Conception réactive :
 
 Le site Web s'adapte à différents appareils grâce à l'utilisation de HTML, CSS et JavaScript.
 L'utilisation de requêtes multimédias a créé une mise en page réactive pour une visualisation transparente sur différentes tailles d'écran.
+
+
+Avantages:
+
+HTML, CSS, JavaScript uniquement :
+
+Développement rationalisé, déploiement rapide.
+Réduisez les coûts initiaux et permanents.
+
+Sur la base de l'analyse coûts/avantages de la décision, l'utilisation de HTML, CSS et JavaScript semble être la solution la plus efficace et la plus rentable pour un site Web de sensibilisation à l'IA, offrant un équilibre entre la faisabilité technique, le temps de développement et l'utilisation des ressources.
+
+Coûts et délais :
+
+HTML, CSS, JavaScript uniquement :
+
+Temps de développement : 5 jours
+
+Hébergement de domaine : 12,99 € par an chez Godaddy (https://www.godaddy.com/)
+
+Améliorations futures : 12,99 € pour un hébergement de domaine d'un an supplémentaire
+
+
 

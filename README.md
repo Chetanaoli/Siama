@@ -1,10 +1,10 @@
-Thème du site :  Vérité et sécurité ( website to make awareness among the people about Truth and security of Artificial Intellience )
+Thème du site : Vérité et sécurité (site de sensibilisation du public à la Vérité et à la sécurité de l'Intelligence Artificielle)
 
-The primary message we want to convey about truth and security in AI,
+Le principal message que nous voulons transmettre sur la vérité et la sécurité dans l'IA,
 
-About site : Site consist of 1 landing page (Page d’accueil) and 6 other connecting pages like 
+À propos du site : Le site est composé d'une page de destination (Page d'accueil) et de 6 autres pages de connexion comme
 Qui sommes nous ?
-S’informer
+S'informer
 Projets
 Partenariats
 Forum
@@ -12,13 +12,13 @@ Contact
 
 
 
-Technical benchmark:
+Technical benchmark :
 
-Comparative analysis of website performance using tools such as Google PageSpeed Insights to ensure optimal loading times.
+Analyse comparative des performances des sites Web à l'aide d'outils tels que Google PageSpeed Insights pour garantir des temps de chargement optimaux.
 
-Compatibility testing across multiple browsers and devices for a seamless user experience.
+Tests de compatibilité sur plusieurs navigateurs et appareils pour une expérience utilisateur transparente.
 
-Security assessment to identify potential vulnerabilities and ensure data protection measures.
+Évaluation de la sécurité pour identifier les vulnérabilités potentielles et garantir des mesures de protection des données.
 
 https://www.semrush.com/
 
@@ -29,20 +29,19 @@ https://www.webpagetest.org/
 
 
 
-Technical description :
+Description technique :
+Aperçu du projet:
 
-Project Overview:
+Notre projet vise à créer une page de destination statique axée sur la vérité et la sécurité dans l'intelligence artificielle. La page sera entièrement construite à partir de zéro sans recourir au CMS et respectera les contraintes spécifiques fixées par le projet, notamment l'utilisation de Tailwind CSS, la mise en page CSS Grid et la garantie de l'accessibilité.
+Pile technique :
+HTML/CSS : codez manuellement le HTML et le CSS de la page de destination, en mettant l'accent sur un balisage propre et sémantique.
+Tailwind CSS : apprenez et appliquez les classes Tailwind pour le style, garantissant ainsi un design visuellement attrayant et réactif.
+Disposition en grille : utilisez la disposition en grille CSS pour structurer la page entière, en vous alignant sur les exigences du projet visant à minimiser l'utilisation de requêtes multimédias.
+JavaScript : conformément aux contraintes, évitez d'utiliser JavaScript pour cette page de destination statique.
+Accessibilité : implémentez des fonctionnalités d'accessibilité conformément aux normes WAI, ARIA et WCAG. Documentez les mesures prises pour garantir une expérience utilisateur plus inclusive.
 
-Our project aims to create a static landing page focusing on truth and security in artificial intelligence. The page will be built entirely from scratch without relying on CMS, and it will adhere to specific constraints set by the project, including the use of Tailwind CSS, CSS Grid layout, and ensuring accessibility.
-Technical Stack:
-HTML/CSS: Hand-code the HTML and CSS for the landing page, emphasizing clean and semantic markup.
-Tailwind CSS: Learn and apply Tailwind classes for styling, ensuring a visually appealing and responsive design.
-Grid Layout: Utilize CSS Grid layout for structuring the entire page, aligning with the project's requirement to minimize the use of media queries.
-JavaScript: As per the constraints, avoid using JavaScript for this static landing page.
-Accessibility: Implement accessibility features following WAI, ARIA, and WCAG standards. Document the steps taken to ensure a more inclusive user experience.
+Conception réactive :
 
-Responsive Design:
-
-The website adapts to different devices through the use of HTML, CSS and JavaScript.
-The use of media queries has created a responsive layout for seamless viewing on different screen sizes.
+Le site Web s'adapte à différents appareils grâce à l'utilisation de HTML, CSS et JavaScript.
+L'utilisation de requêtes multimédias a créé une mise en page réactive pour une visualisation transparente sur différentes tailles d'écran.
 

@@ -1,4 +1,4 @@
-# Vérité et Sécurité dans l'Intelligence Artificielle
+# SIAMA 
 
 Ce projet de site web vise à sensibiliser les gens sur la vérité et la sécurité dans le domaine de l'intelligence artificielle.
 

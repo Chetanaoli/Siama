@@ -57,9 +57,15 @@ Utilitaires intégrés pour le design responsive, simplifiant la création de mi
 
 ## Coûts et Délais
 
-- Ressources Nécessaires : Estimation des besoins en ressources humaines (designer, développeur, rédacteur).
-- Planning de Développement : Estimation des phases de design, développement, tests et déploiement.
-- Budget : Estimation des coûts de développement, d'hébergement et autres dépenses associées.
+- #### Ressources Nécessaires :
+Estimation des besoins en ressources humaines
+    - designer
+    - développeur
+    - rédacteur).
+- #### Planning de Développement : 
+Estimation des phases de design, développement, tests et déploiement.
+- #### Budget : 
+L'utilisation de GitHub comme plate-forme d'hébergement gratuite élimine les coûts directs d'hébergement et de domaine.
 
 ## Accès aux Sources
 

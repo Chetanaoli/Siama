@@ -34,25 +34,26 @@ Notre projet consiste à créer une page d'accueil statique axée sur la vérit�
   
 ## Avantages de Tailwind CSS
 
- ###  Approche Utilitaire-First : 
+- ###  Approche Utilitaire-First : 
 Permet de construire rapidement des interfaces en composant directement les styles dans le HTML, offrant un contrôle granulaire sur le style sans nécessiter de CSS personnalisé.
 
- ### Personnalisation :
+- ### Personnalisation :
  Framework hautement personnalisable, fournissant un fichier de configuration robuste pour des ajustements faciles des schémas de couleurs, des espacements, des points de rupture, etc.
 
- ### Faible Spécificité :
+- ### Faible Spécificité :
  Favorise une faible spécificité dans les styles, facilitant la maintenance d'un système de design cohérent sans se confronter à des problèmes de spécificité.
 
- ### Scalabilité : 
+- ### Scalabilité : 
 S'adapte efficacement aux grands projets, produisant des fichiers CSS plus petits par rapport aux frameworks avec des composants prédéfinis, ce qui peut améliorer les performances.
 
- ### Communauté et Écosystème : 
+- ### Communauté et Écosystème : 
  Communauté active partageant des ressources, des plugins et des extensions, améliorant la polyvalence et la facilité d'utilisation.
 
-### Design Responsive : 
+- ### Design Responsive : 
 Utilitaires intégrés pour le design responsive, simplifiant la création de mises en page adaptatives sans gestion complexe des requêtes média.
 
-Courbe d'Apprentissage : Une courbe d'apprentissage initiale ; cependant, une fois maîtrisé, Tailwind accélère considérablement le développement grâce à son système de nomenclature de classes cohérent et intuitif.
+- ### Courbe d'Apprentissage :
+  Une courbe d'apprentissage initiale ; cependant, une fois maîtrisé, Tailwind accélère considérablement le développement grâce à son système de nomenclature de classes cohérent et intuitif.
 
 ## Coûts et Délais
 

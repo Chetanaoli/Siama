@@ -14,88 +14,80 @@
   </head>
   <body class="p-0 m-0 bg-orange-100 overflow-x-hidden" style="padding: 0; margin: 0; text-decoration: none">
     <div class="bg-orange-100">
-        <header class="absolute inset-x-0 top-0 z-50">
-          <nav
-            class="flex items-center justify-between p-6 lg:px-8"
-            aria-label="Global"
-          >
-            <div class="flex lg:flex-1">
-              <a href="#" class="-m-1.5 p-1.5">
-                <span class="sr-only">Your Company</span>
-                <img src="./logo.png" alt="LOGO" class="w-[3rem] h-auto">
-              </a>
-            </div>
-            <div class="flex lg:hidden">
-              <button
-                type="button"
-                class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
-              >
+      <header class="absolute inset-x-0 top-0 z-50">
+        <nav
+          class="flex items-center justify-between p-6 lg:px-8"
+          aria-label="Global"
+        >
+          <div class="flex lg:flex-1">
+            <a href="/index.html" class="-m-1.5 p-1.5">
+              <span class="sr-only">Your Company</span>
+              <img src="./logo.png" alt="LOGO" class="w-[3rem] h-auto">
+            </a>
+          </div>
+          <div class="flex lg:hidden">
+          </div>
+          <div class="flex flex-row">
+            <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
+              <button data-collapse-toggle="navbar-sticky" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-sticky" aria-expanded="false">
                 <span class="sr-only">Open main menu</span>
-                <svg
-                  class="h-6 w-6"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke-width="1.5"
-                  stroke="currentColor"
-                  aria-hidden="true"
-                >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
-                  />
+                <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
                 </svg>
               </button>
             </div>
-            <div class="hidden lg:flex lg:gap-x-12">
-              <a href="#" class="text-sm font-semibold leading-6 text-green-900"
-                >S'informer</a
-              >
-              <a href="#" class="text-sm font-semibold leading-6 text-green-900"
-                >Douter</a
-              >
-              <a href="#" class="text-sm font-semibold leading-6 text-green-900"
-                >Prendre conscience</a
-              >
-              <a href="#" class="text-sm font-semibold leading-6 text-green-900"
-                >Échanger</a
-              >
-            </div>
-          </nav>
-        </header>
+          </div>
+          <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1 p-5" id="navbar-sticky">
+            <ul class="flex flex-col p-4 md:p-0 mt-0 font-medium rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 dark:border-gray-700 gap-5 sm:bg-transparent bg-slate-800">
+              <li>
+                <a href="/page2.html" class="flex w-full bg-slate-700 sm:bg-transparent py-2 px-3 text-white bg-green-800 rounded-lg md:bg-transparent md:text-green-900 md:p-0" aria-current="page">S'informer</a>
+              </li>
+              <li>
+                <a href="/page3.html" class="flex w-full bg-slate-700 sm:bg-transparent py-2 px-3 text-white rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-green-900 md:p-0 md:dark:hover:text-gray-400 dark:text-white dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Douter</a>
+              </li>
+              <li>
+                <a href="/page4.html" class="flex w-full bg-slate-700 sm:bg-transparent py-2 px-3 text-white rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-green-900 md:p-0 md:dark:hover:text-gray-400 dark:text-white dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Prendre conscience</a>
+              </li>
+              <li>
+                <a href="/page5.html" class="flex w-full bg-slate-700 sm:bg-transparent py-2 px-3 text-white rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-green-900 md:p-0 md:dark:hover:text-gray-400 dark:text-white dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Échanger</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </header>
   
-        <div class="rounded bg-orange-100">
-          <div class="relative isolate px-6 py-14 lg:px-8">
+      <div class="rounded bg-orange-100">
+        <div class="relative isolate px-6 py-14 lg:px-8">
+          <div
+            class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+            aria-hidden="true"
+          >
             <div
-              class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
-              aria-hidden="true"
-            >
-              <div
-                class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
-                style="
-                  clip-path: polygon(
-                    74.1% 44.1%,
-                    100% 61.6%,
-                    97.5% 26.9%,
-                    85.5% 0.1%,
-                    80.7% 2%,
-                    72.5% 32.5%,
-                    60.2% 62.4%,
-                    52.4% 68.1%,
-                    47.5% 58.3%,
-                    45.2% 34.5%,
-                    27.5% 76.7%,
-                    0.1% 64.9%,
-                    17.9% 100%,
-                    27.6% 76.8%,
-                    76.1% 97.7%,
-                    74.1% 44.1%
-                  );
-                "
-              ></div>
-            </div>
+              class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+              style="
+                clip-path: polygon(
+                  74.1% 44.1%,
+                  100% 61.6%,
+                  97.5% 26.9%,
+                  85.5% 0.1%,
+                  80.7% 2%,
+                  72.5% 32.5%,
+                  60.2% 62.4%,
+                  52.4% 68.1%,
+                  47.5% 58.3%,
+                  45.2% 34.5%,
+                  27.5% 76.7%,
+                  0.1% 64.9%,
+                  17.9% 100%,
+                  27.6% 76.8%,
+                  76.1% 97.7%,
+                  74.1% 44.1%
+                );
+              "
+            ></div>
           </div>
         </div>
+      </div>
 
 
       <div class="p-5 w-full sm:w-2/3 mx-auto">
